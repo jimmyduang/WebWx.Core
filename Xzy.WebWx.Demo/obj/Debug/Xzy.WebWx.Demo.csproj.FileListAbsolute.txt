@@ -1,0 +1,11 @@
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\bin\Debug\Xzy.WebWx.Demo.exe.config
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\bin\Debug\Xzy.WebWx.Demo.exe
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\bin\Debug\Xzy.WebWx.Demo.pdb
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\bin\Debug\Xzy.WebWx.Sdk.pdb
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.csprojResolveAssemblyReference.cache
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.Form1.resources
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.Properties.Resources.resources
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.csproj.GenerateResource.Cache
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.csproj.CoreCompileInputs.cache
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.exe
+F:\学习\WebWx.Core\Xzy.WebWx.Demo\obj\Debug\Xzy.WebWx.Demo.pdb
